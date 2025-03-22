@@ -2,9 +2,9 @@
 
 
 🌱 Developer and Data Analyst  
-📍 Copenhagen
-📧 rahima.lina@outlook.com   
+📍 Copenhagen 
 🌐 [linasstudio.rahima](https://linasstudio.wixsite.com/rahima)
+📧 rahima.lina@outlook.com  
 
 <!--
 **rahimaalina/rahimaalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
