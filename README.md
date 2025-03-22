@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rahima A.Lina
+## Hi there 👋 I'm Rahima A. Lina
 
 
 🌱 Developer and Data Analyst  
