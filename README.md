@@ -10,7 +10,7 @@
 🌱 I’m exploring - Data Science and App development.  
 🤔 I’m trying - To develop impactful stories in life.  
 ⚡ Fun fact - I can speak 4 languages - 2 of them hardly🙃.  
-❤️ Hobby - Sleeping and reading astronomy and mangas😉.  
+❤️ Hobby - Sleeping and reading astronomy & mangas😉.  
 
 
 
