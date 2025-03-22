@@ -3,6 +3,7 @@
 
 🌱 Developer and Data Analyst    
 📍 Copenhagen 
+
 📧 rahima.lina@outlook.com  
 🌐 [linasstudio.rahima](https://linasstudio.wixsite.com/rahima)
 
