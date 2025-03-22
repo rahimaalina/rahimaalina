@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Rahima A.Lina
 
 
-🌱 Developer and Data Analyst    
-📍 Copenhagen 
-📧 rahima.lina@outlook.com  
+🌱 Developer and Data Analyst  
+📍 Copenhagen
+📧 rahima.lina@outlook.com   
 🌐 [linasstudio.rahima](https://linasstudio.wixsite.com/rahima)
 
 <!--
