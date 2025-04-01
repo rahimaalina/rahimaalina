@@ -5,12 +5,12 @@
 🌐 [linasstudio.rahima](https://linasstudio.wixsite.com/rahima)  
 📧 rahima.lina@outlook.com  
 
-🔭 Works @Unemployed | @Independent Data Analyst & Web Developer🤡.  
+🔭 Works @Unemployed | @Independent Data Analyst & Web Developer. 🤡
 🎓 I’m studying - At DTU.  
 🌱 I’m exploring - Data Science and App development.  
 🤔 I’m trying - To develop impactful stories in life.  
-⚡ Fun fact - I can speak 4 languages - 2 of them hardly🙃.  
-❤️ Hobby - Sleeping and reading astronomy & mangas😉.  
+⚡ Fun fact - I can speak 4 languages - 2 of them hardly. 🙃 
+❤️ Hobby - Sleeping and reading astronomy, human biology & mangas. 😉  
 
 
 
