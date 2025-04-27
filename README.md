@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Rahima A. Lina
 
 🌱 Developer and Data Analyst  
-📍 Copenhagen  
-🌐 [linasstudio.rahima](https://linasstudio.wixsite.com/rahima)  
+📍 Copenhagen   
 📧 rahima.lina@outlook.com  
 
 🔭 Works @Unemployed | @Independent Data Analyst & Web Developer. 🤡
