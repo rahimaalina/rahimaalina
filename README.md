@@ -4,22 +4,33 @@
 📍 Copenhagen   
 📧 rahima.lina@outlook.com  
 
-🔭 Works @Unemployed | @Independent Data Analyst & Web Developer. 🤡
-🎓 I’m studying - At DTU.  
-🌱 I’m exploring - Data Science and App development.  
-🤔 I’m trying - To develop impactful stories in life.  
+🔭 Works @Independent Data Analyst & Web Developer. 🤡  
+🎓 I’m studying - Technical University of Denmark (DTU).    
+🌱 I’m exploring - Data Science, App development and Innovation.   
+🤔 I’m trying - To develop impactful stories in life and technology.  
+🌍 Passionate about: Sustainability and AI.  
 ⚡ Fun fact - I can speak 4 languages - 2 of them hardly.  
 ❤️ Hobby - Sleeping and reading astronomy, human biology & mangas. 😉  
 
+---
+
+## 🛠️ Tech Stack:
+- Python (Flask, Streamlit, Pandas, Plotly)
+- SQL, SQLite
+- HTML5, CSS3
+- Git, GitHub Actions (CI/CD pipelines)
+- Power BI, Tableau
+- APIs & Data Visualization
+
+---
 
 
-<!--
-**rahimaalina/rahimaalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 🔥 Current Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=AfnanFerdousi&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanFerdousi&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AfnanFerdousi&show_icons=true&theme=dark)
+## 📈 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
+---
 
+<p align="center">✨ Let's create impactful stories together — through data, code, and curiosity ✨</p>
