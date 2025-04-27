@@ -17,6 +17,7 @@
 ## 🛠️ Tech Stack:
 - Python (Flask, Streamlit, Pandas, Plotly)
 - Java/JavaScript
+- R, MATLAB
 - SQL, SQLite
 - React.js, Next.js, Node.js
 - HTML5, CSS3
