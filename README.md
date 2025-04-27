@@ -31,6 +31,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lina&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
 ---
 
 <p align="center">✨ Let's create impactful stories together — through data, code, and curiosity ✨</p>
