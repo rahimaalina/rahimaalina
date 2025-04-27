@@ -16,7 +16,9 @@
 
 ## 🛠️ Tech Stack:
 - Python (Flask, Streamlit, Pandas, Plotly)
+- Java/JavaScript
 - SQL, SQLite
+- React.js, Next.js, Node.js
 - HTML5, CSS3
 - Git, GitHub Actions (CI/CD pipelines)
 - Power BI, Tableau
