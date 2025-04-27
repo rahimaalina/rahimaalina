@@ -36,4 +36,4 @@
 
 ---
 
-<p align="center">✨ Let's create impactful stories together — through data, code, and curiosity ✨</p>
+<p align="center">✨ Let's create impactful stories together - through data, code, and curiosity ✨</p>
