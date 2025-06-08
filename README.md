@@ -14,24 +14,11 @@
 
 ---
 
-## 🛠️ Tech Stack:
-- Python (Flask, Streamlit, Pandas, Plotly)
-- Java/JavaScript
-- R, MATLAB
-- SQL, SQLite
-- React.js, Next.js, Node.js
-- HTML5, CSS3
-- Git, GitHub Actions (CI/CD pipelines)
-- Power BI, Tableau
-- APIs & Data Visualization
-
----
-
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimaalina&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimaalina&theme=bluepink" alt="GitHub Streak" />
 </p>
 
 
