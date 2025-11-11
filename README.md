@@ -16,8 +16,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahimaalina&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=rahimaalina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahima's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 ---
