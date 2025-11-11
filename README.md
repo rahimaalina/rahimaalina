@@ -17,18 +17,30 @@
 
 <div align="center">
 
-<!-- Neon GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=rahimaalina&theme=tokyonight&hide_border=true&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff" alt="Rahima's GitHub Streak" width="420"/>
+  <!-- Streak + Stats side by side -->
+  <img
+    src="https://streak-stats.demolab.com?user=rahimaalina&theme=tokyonight&hide_border=true&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff"
+    alt="Rahima's GitHub Streak"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=00ffff&icon_color=ff00ff&custom_title=Rahima%20A.%20Lina%27s%20GitHub%20Stats"
+    alt="Rahima A. Lina's GitHub Stats"
+    height="160"
+  />
 
-<br><br>
+</div>
 
-<!-- Neon Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=00ffff&icon_color=ff00ff" alt="Rahima's GitHub Stats" width="420"/>
+<br />
 
-<br><br>
+<div align="center">
 
-<!-- Neon Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=00ffff" alt="Top Languages" width="420"/>
+  <!-- Compact neon top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=00ffff"
+    alt="Top Languages"
+    height="160"
+  />
 
 </div>
 
