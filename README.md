@@ -13,22 +13,21 @@
 ---
 
 
-## 📈 GitHub Stats
+## ⚡ GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=rahimaalina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Neon GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=rahimaalina&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahima's GitHub Stats" />
+  <!-- Neon Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=radical&hide_border=true&ring_color=00FFEF&icon_color=00FFFF&text_color=00FFEF&title_color=FF00FF" alt="Rahima's GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <!-- Neon Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=highcontrast&hide_border=_
 
 
 
