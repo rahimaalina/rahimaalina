@@ -15,19 +15,19 @@
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-  <!-- Neon GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=rahimaalina&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Neon Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=radical&hide_border=true&ring_color=00FFEF&icon_color=00FFFF&text_color=00FFEF&title_color=FF00FF" alt="Rahima's GitHub Stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=rahimaalina&theme=neon-dark&hide_border=true&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="Rahima's GitHub Streak" width="420"/>
 
-<p align="center">
-  <!-- Neon Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=highcontrast&hide_border=_
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahimaalina&show_icons=true&theme=neon-dark&hide_border=true&title_color=FF00FF&text_color=00FFFF&icon_color=FF00FF" alt="Rahima's GitHub Stats" width="420"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=neon-dark&hide_border=true&title_color=FF00FF&text_color=00FFFF" alt="Top Languages" width="420"/>
+
+</div>
 
 
 
