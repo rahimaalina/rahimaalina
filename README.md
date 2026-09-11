@@ -1,9 +1,9 @@
-## Hi there 👋 I'm Rahima A. Lina
+## Hi there 👋 I'm Lina
 
 🔭 Data Science & Software Engineering   
 📧 rahima.lina@outlook.com  
 
-🔭 Works @NovoNordisk.  
+🔭 Works @Maersk|ex-NovoNordisk.  
 🎓 I’m studying - Technical University of Denmark (DTU).    
 🌱 I’m exploring - Data Science, App development and Innovation.   
 🤔 I’m trying - To develop impactful stories in life and technology.  
