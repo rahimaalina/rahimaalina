@@ -33,7 +33,6 @@
   <!-- Compact neon top languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimaalina&layout=compact&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=00ffff"
-    height="160"
   />
 
 </div>
